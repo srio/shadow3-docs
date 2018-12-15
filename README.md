@@ -1,6 +1,6 @@
 # shadow3-docs
 
-User documentation and other documents, probably obsolete, but could be useful to understan some features of SHADOW. Please seel https://github.com/oasys-kit/shadow3 for the latest shadow3 and use OASYS https://github.com/oasys-kit/ for the official interface. 
+User documentation and other documents, probably obsolete, but could be useful to understand some features of SHADOW. Please seel https://github.com/oasys-kit/shadow3 for the latest shadow3 and use OASYS https://github.com/oasys-kit/ for the official interface. 
 
 User documentation
 ------------------
