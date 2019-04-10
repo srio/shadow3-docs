@@ -19,7 +19,7 @@ User documentation
 - How SHADOW manipulates electric vectors https://github.com/srio/shadow3-docs/blob/master/doc/report-shadow-efields.pdf
 15/03/2013 03:55 PM
 
-- This document explains how the electric fields and related parameters
+This document explains how the electric fields and related parameters
 (intensity, polarization) are defined and modified in SHADOW. It also
 describes a bug fixed in March 2013.
 
