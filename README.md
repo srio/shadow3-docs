@@ -37,14 +37,12 @@ that prevent to use this mosaic crystal option in SHADOW3. ...
 - Technical documentation Wigglers https://github.com/srio/shadow3-docs/blob/master/doc/report-shadow-wigglers.pdf
 20/06/2014 03:29 PM
 
-- Monte Carlo simulation of radiation emitted from the BM ports of the new
-ESRF lattice
+- Monte Carlo simulation of radiation emitted from the BM ports of the new ESRF lattice
 
-This document explains a model to Monte Carlo sample wiggler sources.
-The model follows the implementation
-in the SHADOW ray tracing code. The results are applied to the
-simulation of the emission of the wigglers to be used at the bending
-magnet beamlines for the new ESRF lattice.
+This document explains a model to Monte Carlo sample wiggler sources. The model follows the implementation
+in the SHADOW ray tracing code. The results are applied to the simulation of the emission of the wigglers to be used at the bending magnet beamlines for the new ESRF lattice.
+
+- Conics equations in Shadow https://github.com/srio/shadow3-docs/blob/master/doc/conic.pdf . A draft with the equations of the parabola, ellipse and hyperbola with some relationships useful to set SHadow parameters.  
 
 
 Other documents 
