@@ -9,9 +9,9 @@ User documentation
 
 - SHADOW Source User guide http://ftp.esrf.eu/scisoft/shadow/documentation/shadow-source.pdf
 
-- SHADOW Trace User guide http://ftp.esrf.eu/scisoft/shadow/documentation/shadow-trace.pdf
+- SHADOW Trace User guide https://github.com/srio/shadow3-docs/blob/master/doc/shadow-trace.pdf
 
-- SHADOW Utilities User Guide http://ftp.esrf.eu/scisoft/shadow/documentation/userguide.pdf
+- SHADOW Utilities User Guide https://github.com/srio/shadow3-docs/blob/master/doc/userguide.pdf
 
 - SHADOW3 paper on Journal of Synchrotron Radiation https://github.com/srio/shadow3-docs/blob/master/doc/shadow3_jsr_2011officialcopy.pdf
 07/12/2011 01:34 PM
