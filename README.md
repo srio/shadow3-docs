@@ -7,7 +7,7 @@ User documentation
 
 - SHADOW Primer  https://github.com/srio/shadow3-docs/blob/master/doc/Shadow3Primer.pdf (text source: https://github.com/srio/shadow3-docs/blob/master/doc/Shadow3Primer.odt)
 
-- SHADOW Source User guide http://ftp.esrf.eu/scisoft/shadow/documentation/shadow-source.pdf
+- SHADOW Source User guide https://github.com/srio/shadow3-docs/blob/master/doc/shadow-source.pdf
 
 - SHADOW Trace User guide https://github.com/srio/shadow3-docs/blob/master/doc/shadow-trace.pdf
 
